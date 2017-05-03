@@ -1,0 +1,42 @@
+
+ ALL 
+                                        Complete Cases
+                                          No Yes Sum
+  KLINIK KESIHATAN AIR TAWAR 2             1  18  19
+  KLINIK KESIHATAN AYER BALOI              1  26  27
+  KLINIK KESIHATAN BALAKONG                0   7   7
+  KLINIK KESIHATAN BATU ANAM               2  24  26
+  KLINIK KESIHATAN BERANANG                1  23  24
+  KLINIK KESIHATAN BULUH KASAP             6  15  21
+  KLINIK KESIHATAN CHAAH                   0  13  13
+  KLINIK KESIHATAN PARIT SULONG            1  23  24
+  KLINIK KESIHATAN RENGIT                  1  25  26
+  KLINIK KESIHATAN SENING                  0  24  24
+  KLINIK KESIHATAN SRI GADING              0  24  24
+  KLINIK KESIHATAN SUNGAI BESAR            0  23  23
+  KLINIK KESIHATAN TANJUNG KARANG          0  18  18
+  KLINIK KESIHATAN TELOK DATOK             0  24  24
+  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  13  13
+  KLINIK KESIHATAN TONGKANG PECAH          0  20  20
+  Sum                                     13 320 333
+
+ Interview 
+                                        Complete Cases
+                                          No Yes Sum
+  KLINIK KESIHATAN AIR TAWAR 2             0  19  19
+  KLINIK KESIHATAN AYER BALOI              1  26  27
+  KLINIK KESIHATAN BALAKONG                0   7   7
+  KLINIK KESIHATAN BATU ANAM               2  24  26
+  KLINIK KESIHATAN BERANANG                0  24  24
+  KLINIK KESIHATAN BULUH KASAP             2  19  21
+  KLINIK KESIHATAN CHAAH                   0  13  13
+  KLINIK KESIHATAN PARIT SULONG            1  23  24
+  KLINIK KESIHATAN RENGIT                  1  25  26
+  KLINIK KESIHATAN SENING                  0  24  24
+  KLINIK KESIHATAN SRI GADING              0  24  24
+  KLINIK KESIHATAN SUNGAI BESAR            0  23  23
+  KLINIK KESIHATAN TANJUNG KARANG          0  18  18
+  KLINIK KESIHATAN TELOK DATOK             0  24  24
+  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  13  13
+  KLINIK KESIHATAN TONGKANG PECAH          0  20  20
+  Sum                                      7 326 333
