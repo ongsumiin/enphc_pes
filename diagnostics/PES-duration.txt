@@ -2,83 +2,97 @@
  Short Duration Outliers 
                     Short duration
 Data Entry Personnel FALSE Sum
+   Adlan                 4   4
    Aimi Nadiah Jamel     4   4
-   Aisyah                1   1
+   Aisyah                2   2
    Aminiril anisah       3   3
-   Annas                 6   6
+   Annas                12  12
    Danial                4   4
    Delina                5   5
+   DR ANG                2   2
    Dr Masliyana          1   1
-   Dr Richard           11  11
-   eliza                 1   1
-   Eliza                12  12
-   Geetha Krishnan      20  20
+   Dr Richard           19  19
+   Dr saravanan          7   7
+   Dr Saravanan          2   2
+   eliza                 4   4
+   Eliza                22  22
+   Geetha Krishnan      21  21
    Hadi                 18  18
+   Helmi                 8   8
    Hooi Fan              5   5
-   Hoong Ping            5   5
-   Hui Che               6   6
+   Hoong Ping           10  10
+   Hui Che               9   9
    Hui Yi                4   4
-   Izzat                 3   3
-   Izzati               22  22
+   Izzat                19  19
+   Izzati               24  24
+   Jennifer Kaur         8   8
    Jia yi                4   4
    Ling Kuok Wei         5   5
    Mardhiah             21  21
-   Michelle              7   7
-   Munirah               4   4
-   Musfirah             13  13
-   Nabilah Iffah         1   1
+   Michelle              9   9
+   Munirah               8   8
+   Musfirah             16  16
+   Nabilah Iffah         2   2
+   Natrah                7   7
    Noor Amalina         15  15
-   Nurjannah            18  18
-   Nursyuhaida          20  20
-   Philip                9   9
+   Nurjannah            19  19
+   Nursyuhaida          22  22
+   Philip               10  10
    Pui Yee              23  23
    Sree Durga            2   2
-   Suhayl                5   5
-   Tan khai shin        17  17
-   Thivashini            7   7
-   Yhyviyaa             12  12
+   Suhayl               11  11
+   Tan khai shin        19  19
+   Thivashini            9   9
+   Yhyviyaa             16  16
    Yi Shin               4   4
-   Yvonne                2   2
-   Sum                 320 320
+   Yvonne                4   4
+   Sum                 443 443
 
  Less than 10 minutes 
                     < 10 minutes
 Data Entry Personnel FALSE TRUE Sum
+   Adlan                 4    0   4
    Aimi Nadiah Jamel     4    0   4
-   Aisyah                1    0   1
+   Aisyah                2    0   2
    Aminiril anisah       3    0   3
-   Annas                 6    0   6
+   Annas                12    0  12
    Danial                4    0   4
    Delina                5    0   5
+   DR ANG                0    2   2
    Dr Masliyana          1    0   1
-   Dr Richard           11    0  11
-   eliza                 1    0   1
-   Eliza                12    0  12
-   Geetha Krishnan      20    0  20
+   Dr Richard           17    2  19
+   Dr saravanan          7    0   7
+   Dr Saravanan          2    0   2
+   eliza                 4    0   4
+   Eliza                21    1  22
+   Geetha Krishnan      21    0  21
    Hadi                 12    6  18
+   Helmi                 6    2   8
    Hooi Fan              5    0   5
-   Hoong Ping            2    3   5
-   Hui Che               6    0   6
+   Hoong Ping            7    3  10
+   Hui Che               9    0   9
    Hui Yi                4    0   4
-   Izzat                 3    0   3
-   Izzati               22    0  22
+   Izzat                19    0  19
+   Izzati               24    0  24
+   Jennifer Kaur         8    0   8
    Jia yi                4    0   4
    Ling Kuok Wei         5    0   5
    Mardhiah             21    0  21
-   Michelle              6    1   7
-   Munirah               4    0   4
-   Musfirah             13    0  13
-   Nabilah Iffah         1    0   1
+   Michelle              8    1   9
+   Munirah               8    0   8
+   Musfirah             16    0  16
+   Nabilah Iffah         2    0   2
+   Natrah                7    0   7
    Noor Amalina         15    0  15
-   Nurjannah            16    2  18
-   Nursyuhaida          20    0  20
-   Philip                9    0   9
+   Nurjannah            17    2  19
+   Nursyuhaida          22    0  22
+   Philip               10    0  10
    Pui Yee              22    1  23
    Sree Durga            2    0   2
-   Suhayl                4    1   5
-   Tan khai shin        17    0  17
-   Thivashini            7    0   7
-   Yhyviyaa             12    0  12
+   Suhayl                9    2  11
+   Tan khai shin        19    0  19
+   Thivashini            9    0   9
+   Yhyviyaa             16    0  16
    Yi Shin               4    0   4
-   Yvonne                2    0   2
-   Sum                 306   14 320
+   Yvonne                4    0   4
+   Sum                 421   22 443

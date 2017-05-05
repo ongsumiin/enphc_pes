@@ -2,41 +2,51 @@
  ALL 
                                         Complete Cases
                                           No Yes Sum
-  KLINIK KESIHATAN AIR TAWAR 2             1  18  19
+  KK Demo One                              1   2   3
+  KLINIK KESIHATAN AIR TAWAR 2             1  20  21
   KLINIK KESIHATAN AYER BALOI              1  26  27
-  KLINIK KESIHATAN BALAKONG                0   7   7
+  KLINIK KESIHATAN BALAKONG                0  23  23
   KLINIK KESIHATAN BATU ANAM               2  24  26
+  KLINIK KESIHATAN BATU ARANG              0  23  23
   KLINIK KESIHATAN BERANANG                1  23  24
-  KLINIK KESIHATAN BULUH KASAP             6  15  21
-  KLINIK KESIHATAN CHAAH                   0  13  13
+  KLINIK KESIHATAN BUKIT NAGA              0   2   2
+  KLINIK KESIHATAN BULUH KASAP             3  22  25
+  KLINIK KESIHATAN CHAAH                   0  28  28
+  KLINIK KESIHATAN IJOK                    2  21  23
   KLINIK KESIHATAN PARIT SULONG            1  23  24
   KLINIK KESIHATAN RENGIT                  1  25  26
+  KLINIK KESIHATAN SEMENYIH                0  14  14
   KLINIK KESIHATAN SENING                  0  24  24
   KLINIK KESIHATAN SRI GADING              0  24  24
-  KLINIK KESIHATAN SUNGAI BESAR            0  23  23
-  KLINIK KESIHATAN TANJUNG KARANG          0  18  18
+  KLINIK KESIHATAN SUNGAI BESAR            0  25  25
+  KLINIK KESIHATAN TANJUNG KARANG          0  23  23
   KLINIK KESIHATAN TELOK DATOK             0  24  24
-  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  13  13
-  KLINIK KESIHATAN TONGKANG PECAH          0  20  20
-  Sum                                     13 320 333
+  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  23  23
+  KLINIK KESIHATAN TONGKANG PECAH          1  24  25
+  Sum                                     14 443 457
 
  Interview 
                                         Complete Cases
                                           No Yes Sum
-  KLINIK KESIHATAN AIR TAWAR 2             0  19  19
+  KK Demo One                              1   2   3
+  KLINIK KESIHATAN AIR TAWAR 2             0  21  21
   KLINIK KESIHATAN AYER BALOI              1  26  27
-  KLINIK KESIHATAN BALAKONG                0   7   7
+  KLINIK KESIHATAN BALAKONG                0  23  23
   KLINIK KESIHATAN BATU ANAM               2  24  26
+  KLINIK KESIHATAN BATU ARANG              0  23  23
   KLINIK KESIHATAN BERANANG                0  24  24
-  KLINIK KESIHATAN BULUH KASAP             2  19  21
-  KLINIK KESIHATAN CHAAH                   0  13  13
+  KLINIK KESIHATAN BUKIT NAGA              0   2   2
+  KLINIK KESIHATAN BULUH KASAP             1  24  25
+  KLINIK KESIHATAN CHAAH                   0  28  28
+  KLINIK KESIHATAN IJOK                    2  21  23
   KLINIK KESIHATAN PARIT SULONG            1  23  24
   KLINIK KESIHATAN RENGIT                  1  25  26
+  KLINIK KESIHATAN SEMENYIH                0  14  14
   KLINIK KESIHATAN SENING                  0  24  24
   KLINIK KESIHATAN SRI GADING              0  24  24
-  KLINIK KESIHATAN SUNGAI BESAR            0  23  23
-  KLINIK KESIHATAN TANJUNG KARANG          0  18  18
+  KLINIK KESIHATAN SUNGAI BESAR            0  25  25
+  KLINIK KESIHATAN TANJUNG KARANG          0  23  23
   KLINIK KESIHATAN TELOK DATOK             0  24  24
-  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  13  13
-  KLINIK KESIHATAN TONGKANG PECAH          0  20  20
-  Sum                                      7 326 333
+  KLINIK KESIHATAN TELOK PANGLIMA GARANG   0  23  23
+  KLINIK KESIHATAN TONGKANG PECAH          1  24  25
+  Sum                                     10 447 457
